@@ -1,23 +1,6 @@
-if SHIELD_DACTYL_MANUFORM_5x7_LEFT
+if SHIELD_DACTYL_ORCA_5x7
 
     config ZMK_KEYBOARD_NAME
-        default "DM-5x7(Left)"
-
-    config ZMK_SPLIT_BLE_ROLE_CENTRAL
-        default y
-
-endif
-
-if SHIELD_DACTYL_MANUFORM_5x7_RIGHT
-
-    config ZMK_KEYBOARD_NAME
-        default "DM-5x7(Right)"
-
-endif
-
-if SHIELD_DACTYL_MANUFORM_5x7_LEFT || SHIELD_DACTYL_MANUFORM_5x7_RIGHT
-
-    config ZMK_SPLIT
-        default y
+        default "Dactyl Orca 5x7"
 
 endif
