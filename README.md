@@ -1,2 +1,2 @@
-# dactyl-manuform-5x7-zmk
-This repo is for the ZMK firmware of a wireless Dactyl Manuform 5x7 handwired.
+# dactyl-orca-5x7-zmk
+This repo is for the ZMK firmware of the Dactyl Orca 5x7 handwired.
