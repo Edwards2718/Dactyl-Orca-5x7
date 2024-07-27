@@ -1,0 +1,8 @@
+file_format: "1"
+id: Dactyl_Orca
+name: Dactyl_Orca
+type: shield
+url: https://github.com/Edwards2718/Dactyl-Orca-zmk-firmware
+requires: [pro_micro]
+features:
+  - keys
