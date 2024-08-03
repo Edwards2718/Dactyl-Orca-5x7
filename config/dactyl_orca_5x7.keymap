@@ -2,6 +2,7 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/outputs.h>
+#include <dt-bindings/zmk/mouse.h>
 
 #define DEFAULT 0
 #define LWR 1
@@ -19,7 +20,7 @@
                 &kp TAB    &kp Q    &kp W    &kp E       &kp R      &kp T    &kp LBKT      
                 &kp CAPS   &kp A    &kp S    &kp D       &kp F      &kp G    &kp GRAVE     
                 &kp LSHIFT &kp Z    &kp X    &kp C       &kp V      &kp B                            
-                &kp LCTRL  &kp HOME &kp LALT &kp SQT     &kp LSHIFT &none                   
+                &kp LCTRL  &kp HOME &kp LALT &kp SQT     &mkp LCLK  &none                   
                                                      
                                                                                                                                                     
             >;
