@@ -10,4 +10,4 @@ This keypad is based on the Dactyl Manuform and is inspired by the Razer Orbweav
 
 - The 'R' key has been recessed to align with the 'E' key. On the Orca WASD movement is now ESDF, and it is now easier to simultaneously press the 'E' & 'R' keys using my middle finger (this is useful in FPS games that have Sprint keys). I could even revert the 'R' key to its original Manuform height using an MX keycap stem extender.
 
-This repo contains the ZMK firmware, CAD models, and design document for the Dactyl Orca. 
+This repo contains the ZMK firmware, CAD models, and design document for the Dactyl Orca. **Note**: View the design document PDF in negative color mode.
